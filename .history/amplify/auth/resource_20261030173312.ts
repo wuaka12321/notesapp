@@ -1,0 +1,7 @@
+import { type ClientSchema, a, defineData } from '@aws-amplify/backend';
+const schema = a.schema({
+Note: a
+      .model({
+        name: 
+      })
+})
